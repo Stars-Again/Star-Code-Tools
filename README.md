@@ -1,6 +1,8 @@
 # Star-Code 编码转换工具
 ## 2022.3.10
 
+### 发布 Star-Code-1.0.py
+
 由于小葵多年未更新 且逻辑判断经常出错 而且只能在Windows端运行 所以我用Python3编写了此脚本
 
 本脚本所有模块均是PYthon3自带模块 无需再次安装
@@ -14,10 +16,8 @@
 
 目前解码支持 URL Hex Ascii Base-64 Base-32 Base-16 Unicode
 
-发布 Star-Code-1.0.py
-
 ## 2022.3.14
 
-将脚本封装成EXE文件
+### 发布 Star-Code-1.0 for Windows
 
-发布 Star-Code-1.0 for Windows
+Star-Code-1.0现在支持在Windows系统下直接使用 不再依赖Python3环境
