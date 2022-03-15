@@ -20,4 +20,6 @@
 
 ### 发布 Star-Code-1.0 for Windows
 
+Pyinstaller 封装了Star-Code-1.0
+
 Star-Code-1.0现在支持在Windows系统下直接使用 不再依赖Python3环境
